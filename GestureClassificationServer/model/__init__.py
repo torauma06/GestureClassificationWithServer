@@ -1,0 +1,3 @@
+from model.keypoint_classifier.keypoint_classifier import KeyPointClassifier
+from model.keypoint_classifier.keypoint_classifier_pb import KeyPointClassifier_pb
+from model.keypoint_history_classifier.continuousClassifier_pb import ContinuousClassifier_pb
